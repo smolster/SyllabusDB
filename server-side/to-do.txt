@@ -1,0 +1,5 @@
+	-	Change up user.php/javascript so that if a SQL query returns 0 results, but returns nonetheless, a message
+		like "No courses found" is displayed, rather than an error thrown due to a null value detection
+			-	Apply this across the board server-side
+	
+	-	Lay out update scripts. Professors should be able to add/remove/update assignments. Students should be able to add/remove classes.
