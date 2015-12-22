@@ -8,14 +8,14 @@
 	</head>
 	
 	<body>
-		<div>
+		<div id="loginpanel">
 			<p class='title'>
 				Syllabus DB
 			</p>
 			<form>
 				<input id="login" name="login" type="text" placeholder="login"><br>
 				<input id="password" name="password" type="password" placeholder = "password"><br>
-				<input class="button" type="button" name="login" value="Login">
+				<input class="button" type="button" name="loginbutton" value="Login">
 			</form>
 			
 			<div id="error"></div>
