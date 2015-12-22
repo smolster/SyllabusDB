@@ -6,8 +6,10 @@ html, body {
 	background-color: #d3d3d3;
 }
 
+
 #loginpanel {
 	text-align: center;
+	width: 500px;
 }
 
 .title {
