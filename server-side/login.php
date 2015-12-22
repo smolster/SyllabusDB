@@ -3,11 +3,8 @@
 	<head>
 		<title>Syllabus DB</title>
 		<link rel="stylesheet" type="text/css" href="style.css">
-		<script src="/Courses/comp426-f15/jquery-1.11.3.js"></script>
+		<script src="../jquery-1.11.3.js"></script>
 		<script src="js/login.js"></script>
-<!--		<link rel="stylesheet" href='../jquery-ui-1.11.4.custom/jquery-ui.min.css'>
-		<script src='../jquery-ui-1.11.4.custom/external/jquery/jquery.js'></script>
-		<script src='../jquery-ui-1.11.4.custom/jquery-ui.min.js'></script> -->
 	</head>
 	
 	<body>
